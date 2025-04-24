@@ -1,9 +1,16 @@
-# 👋 Hi, I’m @Devita Aher
+# 👋 Hey there, I'm Devita Aher
 
-- 👀 I’m interested in building web applications, admin dashboards, full-stack systems, and exploring AI/ML  
-- 🌱 Currently learning advanced Angular, Node.js performance optimization, and DevOps fundamentals  
-- 💞️ Open to collaborating on open source projects and real-time web applications  
-- 📫 Reach me at: exilancesoft@gmail.com  
+💻 Full Stack Developer | Angular & Node.js Enthusiast | Exploring Generative AI & LLMs
+
+---
+
+- 👀 Passionate about building dynamic web applications, modern admin dashboards, scalable full-stack systems, and diving deep into AI/ML (especially LLMs and Generative AI)
+- 🌱 Constantly learning — sharpening my skills in advanced Angular, optimizing Node.js performance, and understanding DevOps workflows  
+- 🤝 Open to collaboration on impactful open source projects, real-time web apps, and anything that pushes innovation  
+- 📫 You can reach me at: **exilancesoft@gmail.com**
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy fixing bugs more than writing new features 🚀  
+- ⚡ Fun fact: Solving bugs is my kind of therapy — more thrilling than writing new features 🚀  
 
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
